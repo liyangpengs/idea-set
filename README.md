@@ -63,7 +63,7 @@
 
   4. 打开IDEA，填入激活码（activation_code.txt 文件内容）
 
-  5. 插件破解：需要猴油（tampermonkey）脚本, 解压 `tampermonkey.js.zip` 后，手动添加脚本到猴油中，打开 [https://plugins.jetbrains.com](https://plugins.jetbrains.com/) 搜索你想要激活的插件, 点击 `Generate Code` 按钮就能得到该插件的激活码, 粘入到插件的 `Activation Code` 中即可
+  5. ~~插件破解：需要猴油（tampermonkey）脚本, 解压 `tampermonkey.js.zip` 后，手动添加脚本到猴油中，打开 [https://plugins.jetbrains.com](https://plugins.jetbrains.com/) 搜索你想要激活的插件, 点击 `Generate Code` 按钮就能得到该插件的激活码, 粘入到插件的 `Activation Code` 中即可~~（插件破解机制存在 linux.do 访问权限问题，请自行解决）
 
 - 当然，有能力的还是推荐购买正版激活
 
